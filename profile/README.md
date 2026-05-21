@@ -16,9 +16,9 @@
 
 ## 🏢 About
 
-**Technified World** is an open-source software organisation building practical tools at the intersection of AI, data engineering, workflow automation, and digital infrastructure.
+**Technified World** is a consulting and engineering organisation that builds practical AI, data, and automation tools for clients and contributes to the open-source ecosystem by design, not as an afterthought.
 
-We build in public. Every project is designed to be transparent, maintainable, and useful beyond the organisation that created it.
+Every project is designed to be transparent, maintainable, and useful beyond the organisation that created it.
 
 ---
 
