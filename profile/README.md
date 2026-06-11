@@ -3,11 +3,11 @@
 <h1 align="center">Technified World</h1>
 
 <p align="center">
-  Building intelligent tools and systems. Rooted in open-source principles.
+  Consulting and engineering organisation building practical AI, data, and automation tools for clients. Open-source by design.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Open--Source-3DA639?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Consulting_%26_Engineering-3DA639?style=flat-square" />
   <img src="https://img.shields.io/badge/Domain-AI_%26_Data_Tooling-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-South_Africa-007A4D?style=flat-square" />
 </p>
@@ -42,10 +42,9 @@ Every project is designed to be transparent, maintainable, and useful beyond the
 
 ## 🤝 Get Involved
 
-We welcome contributors, collaborators, sponsors, and partners who share a commitment to practical, ethical, and impactful open-source work.
+We welcome contributors, collaborators, and partners who share a commitment to practical, ethical, and impactful open-source work.
 
 - **Contribute:** Browse open issues and pull requests across our projects
-- **Sponsor:** Support sustainable development of tools that serve the broader community
 - **Partner:** Reach out if your organisation's goals align with ours
 
 ---
